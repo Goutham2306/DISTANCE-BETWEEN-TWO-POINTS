@@ -29,3 +29,6 @@ print("{:.2f}".format(dis))
 
 
 ### RESULT:
+Thus the python for finding the distance between two points is executed successfully.
+
+
